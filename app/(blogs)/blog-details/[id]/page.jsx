@@ -13,6 +13,11 @@ export const metadata = {
   title: "Blog Details || Proty - Real Estate React Nextjs Template",
   description: "Proty - Real Estate React Nextjs Template",
 };
+export async function generateStaticParams() {
+  return allBlogs.map((blog) => ({
+    id: blog.id.toString(),
+  }));
+}
 export default async function page({ params }) {
   const { id } = await params;
 

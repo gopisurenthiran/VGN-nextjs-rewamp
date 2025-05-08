@@ -7,10 +7,18 @@ import Header1 from "@/components/headers/Header1";
 import { allAgents } from "@/data/agents";
 import React from "react";
 
+
+
 export const metadata = {
   title: "Agents Details || Proty - Real Estate React Nextjs Template",
   description: "Proty - Real Estate React Nextjs Template",
 };
+
+export async function generateStaticParams() {
+  return allAgents.map((agent) => ({
+    id: agent.id.toString(),
+  }));
+}
 export default async function page({ params }) {
   const { id } = await params;
 

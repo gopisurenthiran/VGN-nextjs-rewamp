@@ -1,4 +1,4 @@
-// File: C:\Users\admin\Downloads\template-01\app\page.jsx
+// File: C:\New folder\htdocs\VGN-nextjs-rewamp\app\page.jsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
