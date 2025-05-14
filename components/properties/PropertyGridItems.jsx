@@ -65,10 +65,10 @@ export default function PropertyGridItems({ showItems = properties11.length }) {
             <div className="bot flex justify-between items-center">
               <h5 className="price">${property.price}</h5>
               <div className="wrap-btn flex">
-                <a href="#" className="compare flex gap-8 items-center text-1">
+                {/* <a href="#" className="compare flex gap-8 items-center text-1">
                   <i className="icon-compare" />
                   Compare
-                </a>
+                </a> */}
                 <Link
                   href={`/vgn-grandeur/${property.id}`}
                   className="tf-btn style-border pd-4"

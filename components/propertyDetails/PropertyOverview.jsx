@@ -8,15 +8,15 @@ export default function PropertyOverview({ property }) {
           {property.title}
         </div>
         <div className="price text-5 fw-6 text-color-heading">
-          $250,00{" "}
-          <span className="h5 lh-30 fw-4 text-color-default">/month</span>
+        ₹99 Lakhs to ₹2.00 Cr{" "}
+          {/* <span className="h5 lh-30 fw-4 text-color-default">/month</span> */}
         </div>
       </div>
       <div className="info flex justify-between">
         <div className="feature">
           <p className="location text-1 flex items-center gap-10">
             <i className="icon-location" />
-            102 102 Ingraham St, Brooklyn, NY 11237
+            Iyyappanthangal, Porur.
           </p>
           <ul className="meta-list flex">
             <li className="text-1 flex">

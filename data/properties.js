@@ -697,7 +697,7 @@ export const properties10 = [
 export const properties11 = [
   {
     id: 47,
-    imageSrc: "/images/project/box-house.webp",
+    imageSrc: "/images/banner/ongoing-1.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -711,7 +711,7 @@ export const properties11 = [
   },
   {
     id: 48,
-    imageSrc: "/images/project/box-house-2.webp",
+    imageSrc: "/images/banner/ongoing-2.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -725,7 +725,7 @@ export const properties11 = [
   },
   {
     id: 49,
-    imageSrc: "/images/project/box-house-3.webp",
+    imageSrc: "/images/banner/ongoing-3.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -739,7 +739,7 @@ export const properties11 = [
   },
   {
     id: 50,
-    imageSrc: "/images/project/box-house-4.webp",
+    imageSrc: "/images/banner/ongoing-4.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -753,7 +753,7 @@ export const properties11 = [
   },
   {
     id: 51,
-    imageSrc: "/images/project/box-house-5.webp",
+    imageSrc: "/images/banner/ongoing-5.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -767,7 +767,7 @@ export const properties11 = [
   },
   {
     id: 52,
-    imageSrc: "/images/banner/box-house-6.webp",
+    imageSrc: "/images/banner/ongoing-6.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -781,7 +781,7 @@ export const properties11 = [
   },
   {
     id: 53,
-    imageSrc: "/images/banner/box-house-7.webp",
+    imageSrc: "/images/banner/ongoing-7.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -795,7 +795,7 @@ export const properties11 = [
   },
   {
     id: 54,
-    imageSrc: "/images/banner/box-house-8.webp",
+    imageSrc: "/images/banner/ongoing-8.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -809,7 +809,7 @@ export const properties11 = [
   },
   {
     id: 55,
-    imageSrc: "/images/banner/box-house-9.webp",
+    imageSrc: "/images/banner/ongoing-9.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -823,7 +823,7 @@ export const properties11 = [
   },
   {
     id: 56,
-    imageSrc: "/images/banner/box-house-15.webp",
+    imageSrc: "/images/banner/ongoing-10.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -837,7 +837,7 @@ export const properties11 = [
   },
   {
     id: 57,
-    imageSrc: "/images/banner/box-house-16.webp",
+    imageSrc: "/images/banner/ongoing-11.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -851,7 +851,7 @@ export const properties11 = [
   },
   {
     id: 58,
-    imageSrc: "/images/banner/box-house-14.webp",
+    imageSrc: "/images/banner/ongoing-12.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -865,7 +865,7 @@ export const properties11 = [
   },
   {
     id: 59,
-    imageSrc: "/images/banner/box-house.webp",
+    imageSrc: "/images/banner/ongoing-13.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -879,7 +879,7 @@ export const properties11 = [
   },
   {
     id: 60,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/ongoing-14.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -895,7 +895,7 @@ export const properties11 = [
 export const properties12 = [
   {
     id: 47,
-    imageSrc: "/images/project/box-house.webp",
+    imageSrc: "/images/banner/complete-1.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -909,7 +909,7 @@ export const properties12 = [
   },
   {
     id: 48,
-    imageSrc: "/images/project/box-house-2.webp",
+    imageSrc: "/images/banner/complete-2.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -923,7 +923,7 @@ export const properties12 = [
   },
   {
     id: 49,
-    imageSrc: "/images/project/box-house-3.webp",
+    imageSrc: "/images/banner/complete-3.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -937,7 +937,7 @@ export const properties12 = [
   },
   {
     id: 50,
-    imageSrc: "/images/project/box-house-4.webp",
+    imageSrc: "/images/banner/complete-4.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -951,7 +951,7 @@ export const properties12 = [
   },
   {
     id: 51,
-    imageSrc: "/images/project/box-house-5.webp",
+    imageSrc: "/images/banner/complete-5.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -965,7 +965,7 @@ export const properties12 = [
   },
   {
     id: 52,
-    imageSrc: "/images/banner/box-house-6.webp",
+    imageSrc: "/images/banner/complete-6.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -979,7 +979,7 @@ export const properties12 = [
   },
   {
     id: 53,
-    imageSrc: "/images/banner/box-house-7.webp",
+    imageSrc: "/images/banner/complete-7.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -993,7 +993,7 @@ export const properties12 = [
   },
   {
     id: 54,
-    imageSrc: "/images/banner/box-house-8.webp",
+    imageSrc: "/images/banner/complete-8.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1007,7 +1007,7 @@ export const properties12 = [
   },
   {
     id: 55,
-    imageSrc: "/images/banner/box-house-9.webp",
+    imageSrc: "/images/banner/complete-9.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1021,7 +1021,7 @@ export const properties12 = [
   },
   {
     id: 56,
-    imageSrc: "/images/banner/box-house-15.webp",
+    imageSrc: "/images/banner/complete-10.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1035,7 +1035,7 @@ export const properties12 = [
   },
   {
     id: 57,
-    imageSrc: "/images/banner/box-house-16.webp",
+    imageSrc: "/images/banner/complete-11.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1049,7 +1049,7 @@ export const properties12 = [
   },
   {
     id: 58,
-    imageSrc: "/images/banner/box-house-14.webp",
+    imageSrc: "/images/banner/complete-12.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1063,7 +1063,7 @@ export const properties12 = [
   },
   {
     id: 59,
-    imageSrc: "/images/banner/box-house.webp",
+    imageSrc: "/images/banner/complete-13.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1077,7 +1077,7 @@ export const properties12 = [
   },
   {
     id: 60,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-14.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1091,7 +1091,7 @@ export const properties12 = [
   },
   {
     id: 61,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-15.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1105,7 +1105,7 @@ export const properties12 = [
   },
   {
     id: 62,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-16.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1119,7 +1119,7 @@ export const properties12 = [
   },
   {
     id: 63,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-17.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1133,7 +1133,7 @@ export const properties12 = [
   },
   {
     id: 64,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-18.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1147,7 +1147,7 @@ export const properties12 = [
   },
   {
     id: 65,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-19.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1161,7 +1161,7 @@ export const properties12 = [
   },
   {
     id: 66,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-20.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1175,7 +1175,7 @@ export const properties12 = [
   },
   {
     id: 67,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-21.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1189,7 +1189,7 @@ export const properties12 = [
   },
   {
     id: 68,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-22.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1203,7 +1203,7 @@ export const properties12 = [
   },
   {
     id: 69,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-23.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1217,7 +1217,7 @@ export const properties12 = [
   },
   {
     id: 70,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-24.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1231,7 +1231,7 @@ export const properties12 = [
   },
   {
     id: 71,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-25.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1245,7 +1245,7 @@ export const properties12 = [
   },
   {
     id: 72,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-26.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1259,7 +1259,7 @@ export const properties12 = [
   },
   {
     id: 73,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-27.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1273,7 +1273,7 @@ export const properties12 = [
   },
   {
     id: 74,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-28.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1287,7 +1287,7 @@ export const properties12 = [
   },
   {
     id: 75,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-29.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1301,7 +1301,7 @@ export const properties12 = [
   },
   {
     id: 76,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-30.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1315,7 +1315,7 @@ export const properties12 = [
   },
   {
     id: 77,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-31.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1329,7 +1329,7 @@ export const properties12 = [
   },
   {
     id: 78,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-32.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1343,7 +1343,7 @@ export const properties12 = [
   },
   {
     id: 79,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-33.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1357,7 +1357,7 @@ export const properties12 = [
   },
   {
     id: 80,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-34.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1371,7 +1371,7 @@ export const properties12 = [
   },
   {
     id: 81,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-35.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1385,7 +1385,7 @@ export const properties12 = [
   },
   {
     id: 82,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-36.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1399,7 +1399,7 @@ export const properties12 = [
   },
   {
     id: 83,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-37.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1413,7 +1413,7 @@ export const properties12 = [
   },
   {
     id: 84,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-38.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1427,7 +1427,7 @@ export const properties12 = [
   },
   {
     id: 85,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-39.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1441,7 +1441,7 @@ export const properties12 = [
   },
   {
     id: 86,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-40.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1455,7 +1455,7 @@ export const properties12 = [
   },
   {
     id: 87,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-41.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1469,7 +1469,7 @@ export const properties12 = [
   },
   {
     id: 88,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-42.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1483,7 +1483,7 @@ export const properties12 = [
   },
   {
     id: 89,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-43.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1497,7 +1497,7 @@ export const properties12 = [
   },
   {
     id: 90,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-44.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1511,7 +1511,7 @@ export const properties12 = [
   },
   {
     id: 91,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-45.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1525,7 +1525,7 @@ export const properties12 = [
   },
   {
     id: 92,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-46.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1539,7 +1539,7 @@ export const properties12 = [
   },
   {
     id: 93,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-47.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1553,7 +1553,7 @@ export const properties12 = [
   },
   {
     id: 94,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-48.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1567,7 +1567,7 @@ export const properties12 = [
   },
   {
     id: 95,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-49.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1581,7 +1581,7 @@ export const properties12 = [
   },
   {
     id: 96,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-50.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1595,7 +1595,7 @@ export const properties12 = [
   },
   {
     id: 97,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-51.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1609,7 +1609,7 @@ export const properties12 = [
   },
   {
     id: 98,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-52.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1623,7 +1623,7 @@ export const properties12 = [
   },
   {
     id: 99,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-53.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1637,7 +1637,7 @@ export const properties12 = [
   },
   {
     id: 100,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-54.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1651,7 +1651,7 @@ export const properties12 = [
   },
   {
     id: 101,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-55.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1665,7 +1665,7 @@ export const properties12 = [
   },
   {
     id: 102,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/project/complete-56.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1679,7 +1679,7 @@ export const properties12 = [
   },
   {
     id: 103,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/project/complete-57.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1693,7 +1693,7 @@ export const properties12 = [
   },
   {
     id: 104,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/project/complete-58.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1707,7 +1707,7 @@ export const properties12 = [
   },
   {
     id: 105,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/project/complete-59.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1721,7 +1721,7 @@ export const properties12 = [
   },
   {
     id: 106,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-60.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1735,7 +1735,7 @@ export const properties12 = [
   },
   {
     id: 107,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-61.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1749,7 +1749,7 @@ export const properties12 = [
   },
   {
     id: 108,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-62.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1763,7 +1763,7 @@ export const properties12 = [
   },
   {
     id: 109,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-63.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1777,7 +1777,7 @@ export const properties12 = [
   },
   {
     id: 110,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-64.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1791,7 +1791,7 @@ export const properties12 = [
   },
   {
     id: 111,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-65.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1805,7 +1805,7 @@ export const properties12 = [
   },
   {
     id: 112,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-66.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1819,7 +1819,7 @@ export const properties12 = [
   },
   {
     id: 113,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-67.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,
@@ -1833,7 +1833,7 @@ export const properties12 = [
   },
   {
     id: 114,
-    imageSrc: "/images/banner/box-house-2.webp",
+    imageSrc: "/images/banner/complete-68.png",
     imageWidth: 600,
     imageHeight: 401,
     featured: true,

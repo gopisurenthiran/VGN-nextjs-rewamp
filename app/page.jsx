@@ -29,7 +29,7 @@ export default function Home() {
       <Hero />
       <div className="main-content ">
          <Facts />
-         <HelpCenter/>
+       
          <Categories />
          <Properties />
          <VideoReview/>

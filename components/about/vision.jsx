@@ -8,51 +8,13 @@ export default function Contact() {
         <div className="row justify-content-end">
           <div className="col-md-6">
             <h2 className="tf-title">Vision</h2>
-            <ul className="list-vision">
-              <li>
-                Smoke alarm
-              </li>
-              <li>
-                <i className="fa-solid fa-check"></i>
-              Carbon monoxide alarm
-              </li>
-              <li>
-                <i className="fa-solid fa-check"></i>
-                First aid kit
-              </li>
-              <li>
-                <i className="fa-solid fa-check"></i>
-                Self check-in with lockbox
-              </li>
-              <li>
-                <i className="fa-solid fa-check"></i>
-              Security cameras
-              </li>
-              </ul>
+           <p>To do better than what we have done and deliver great value to our customers.</p>
           </div>
           <div className="col-md-6">
           <h2 className="tf-title">Mission</h2>
-            <ul className="list-vision">
-              <li>
-                Smoke alarm
-              </li>
-              <li>
-                <i className="fa-solid fa-check"></i>
-              Carbon monoxide alarm
-              </li>
-              <li>
-                <i className="fa-solid fa-check"></i>
-                First aid kit
-              </li>
-              <li>
-                <i className="fa-solid fa-check"></i>
-                Self check-in with lockbox
-              </li>
-              <li>
-                <i className="fa-solid fa-check"></i>
-              Security cameras
-              </li>
-              </ul>
+           <p> Create an inspiring environment for people where they push their boundaries every day.</p>
+           <p>Achieve customer satisfaction and create value for stakeholders.</p>
+           <p>Encourage professionalism and transparency in all interactions.</p>
           </div>
         </div>
       </div>

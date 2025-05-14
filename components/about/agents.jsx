@@ -11,12 +11,12 @@ export default function Agents() {
           <div className="col-12">
             <div className="heading-section mb-48 text-center">
               <h2 className="title split-text effect-right">
-                <SplitTextAnimation text="Choose Your Local Agent" />
+                <SplitTextAnimation text="Our People" />
               </h2>
-              <p className="text-1 split-text split-lines-transform">
+              {/* <p className="text-1 split-text split-lines-transform">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
                 vel lobortis justo
-              </p>
+              </p> */}
             </div>
             <div className="tf-grid-layout-2 md-col-3 mb-48">
               {agents4.map((agent) => (

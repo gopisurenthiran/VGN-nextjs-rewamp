@@ -9,7 +9,7 @@ export default function Sidebar() {
         className="form-contact-seller mb-30"
         onSubmit={(e) => e.preventDefault()}
       >
-        <h4 className="heading-title mb-30">Contact Sellers</h4>
+        <h4 className="heading-title mb-30">Vgn Grandeur</h4>
         <div className="seller-info">
           <div className="avartar">
             <Image
@@ -20,15 +20,15 @@ export default function Sidebar() {
             />
           </div>
           <div className="content">
-            <h6 className="name">Shara Conner</h6>
+            {/* <h6 className="name">Shara Conner</h6> */}
             <ul className="contact">
               <li>
                 <i className="icon-phone-1" />
-                <span>1-333-345-6868</span>
+                <span>044-4002 4011 / 6965 6911</span>
               </li>
               <li>
                 <i className="icon-mail" />
-                <a href="#">themesflat@gmail.com</a>
+                <a href="#">info@vgngroup.org</a>
               </li>
             </ul>
           </div>

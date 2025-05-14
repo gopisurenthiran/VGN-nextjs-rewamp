@@ -46,7 +46,7 @@ export default function Testimonials() {
           <div className="col-12">
             <div className="heading-section text-center gap-32 mb-56">
               <h2 className="title split-text effect-right">
-                <SplitTextAnimation text="What our customers says" />
+                <SplitTextAnimation text="What our client says?" />
               </h2>
               <p
                 className="text-1 wow animate__fadeInUp animate__animated"

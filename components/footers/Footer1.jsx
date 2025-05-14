@@ -287,7 +287,7 @@ export default function Footer1({ logo = "/images/logo/vgn-logo.svg" }) {
               <a href="#">Themesflat</a>
             </p>
             <div className="wrap-social">
-              <div className="text-3  fw-6 text_white">Follow us</div>
+              <div className="text-3  fw-6 text_white">Follow us1</div>
               <ul className="tf-social ">
                 <li>
                   <a href="#">
