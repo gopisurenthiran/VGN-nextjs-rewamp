@@ -62,8 +62,8 @@ export default function PropertyGridItems({ showItems = properties11.length }) {
                 <span>{property.sqft}</span>Sqft
               </li>
             </ul>
-            <div className="bot flex justify-between items-center">
-              <h5 className="price">${property.price}</h5>
+            <div className="bot flex justify-center items-center">
+              {/* <h5 className="price">${property.price}</h5> */}
               <div className="wrap-btn flex">
                 {/* <a href="#" className="compare flex gap-8 items-center text-1">
                   <i className="icon-compare" />

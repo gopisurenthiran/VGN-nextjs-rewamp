@@ -1,7 +1,8 @@
 {
-  "/(properties)/about/page": "app/(properties)/about/page.js",
-  "/(property-details)/completed-project/page": "app/(property-details)/completed-project/page.js",
-  "/page": "app/page.js",
   "/(property-details)/ongoing-project/page": "app/(property-details)/ongoing-project/page.js",
-  "/(property-details)/vgn-grandeur/[id]/page": "app/(property-details)/vgn-grandeur/[id]/page.js"
+  "/page": "app/page.js",
+  "/(properties)/about/page": "app/(properties)/about/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(property-details)/vgn-grandeur/[id]/page": "app/(property-details)/vgn-grandeur/[id]/page.js",
+  "/(property-details)/completed-project/page": "app/(property-details)/completed-project/page.js"
 }

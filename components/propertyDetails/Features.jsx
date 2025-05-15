@@ -9,28 +9,38 @@ export default function Features() {
       <div className="wrap-feature">
         <div className="box-feature">
           <ul>
-            <li className="feature-item">Smoke alarm</li>
-            <li className="feature-item">Carbon monoxide alarm</li>
-            <li className="feature-item">First aid kit</li>
-            <li className="feature-item">Self check-in with lockbox</li>
-            <li className="feature-item">Security cameras</li>
+            <li className="feature-item">Entry with Feature Wall</li>
+            <li className="feature-item">Walking / Jogging Track</li>
+            <li className="feature-item">Sculpture Garden</li>
+            <li className="feature-item">Sand pit with Exercise Equipments</li>
+            <li className="feature-item">Arboretum</li>
           </ul>
         </div>
         <div className="box-feature">
           <ul>
-            <li className="feature-item">Hangers</li>
-            <li className="feature-item">Bed linens</li>
-            <li className="feature-item">Extra pillows &amp; blankets</li>
-            <li className="feature-item">Iron</li>
-            <li className="feature-item">TV with standard cable</li>
+            <li className="feature-item">Ball Play Area</li>
+            <li className="feature-item">Snake and Ladder</li>
+            <li className="feature-item">Hopscotch</li>
+            <li className="feature-item">Acupressure Pathway</li>
+            <li className="feature-item">Writing Board for Children</li>
           </ul>
         </div>
         <div className="box-feature">
           <ul>
-            <li className="feature-item">Refrigerator</li>
-            <li className="feature-item">Microwave</li>
-            <li className="feature-item">Dishwasher</li>
-            <li className="feature-item">Coffee maker</li>
+            <li className="feature-item">Senior Citizen's Court</li>
+            <li className="feature-item">Sandpit with Play Equipments</li>
+            <li className="feature-item">Pathway with Roundabout</li>
+            <li className="feature-item">Badminton Practice Court</li>
+          </ul>
+        </div>
+        <div className="box-feature">
+          <ul>
+            <li className="feature-item">Amphitheatre</li>
+            <li className="feature-item">Yoga Lawn</li>
+            <li className="feature-item">Stage / Chess Play Area</li>
+            <li className="feature-item">Herbal Garden</li>
+            <li className="feature-item">Walkway with Pergola Above</li>
+            <li className="feature-item"> Seater</li>
           </ul>
         </div>
       </div>

@@ -27,7 +27,7 @@ export default function VideoReview() {
       <ModalVideo
         setIsOpen={setIsOpen}
         isOpen={isOpen}
-        videoId={"XHOmBV4js_E"}
+        videoId={"US7WuUdQ4j8"}
       />
       </div>
       <div className="col-lg-6 col-md-6 col-sm-12">

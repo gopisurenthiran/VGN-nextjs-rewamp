@@ -4,15 +4,11 @@ export default function ExtraInfo() {
   return (
     <>
       <div className="wg-title text-11 fw-6 text-color-heading">
-        Property Details
+        About Vgn Grandeur
       </div>
       <div className="content">
         <p className="description text-1">
-          3 Units in North Hollywood with upside potential through construction
-          of an ADU (buyer to verify). Unit mix consists of (3) 3+1 bath units.
-          The building is a total of 2, 660 square feet and situated on a 6, 001
-          square foot lot. Easy access to the 101, 170, and 134 freeways. The
-          building is separately metered for gas and electricity.
+        Who wouldn't want their home to epitomize luxury? VGN Grandeur offers just that. Situated in a prime location, it ensures seamless connectivity. More than just essentials, your new home integrates functional and eco-friendly features, reimagined for your lifestyle. Enjoy the freedom to design your dream home within a gated community that promises comfort, security, and unparalleled grandeur.
         </p>
         <a href="#" className="tf-btn-link style-hover-rotate">
           <span>Read More </span>

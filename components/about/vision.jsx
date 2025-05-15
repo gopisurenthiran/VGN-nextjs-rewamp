@@ -6,11 +6,11 @@ export default function Contact() {
     <div className="section-contact style-2 tf-spacing-7">
       <div className="container">
         <div className="row justify-content-end">
-          <div className="col-md-6">
+          <div className="col-md-6 vision">
             <h2 className="tf-title">Vision</h2>
            <p>To do better than what we have done and deliver great value to our customers.</p>
           </div>
-          <div className="col-md-6">
+          <div className="col-md-6 mission">
           <h2 className="tf-title">Mission</h2>
            <p> Create an inspiring environment for people where they push their boundaries every day.</p>
            <p>Achieve customer satisfaction and create value for stakeholders.</p>

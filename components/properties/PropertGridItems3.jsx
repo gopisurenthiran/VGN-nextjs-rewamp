@@ -61,7 +61,7 @@ export default function PropertyGridItems3() {
                 <span>{property.sqft}</span>Sqft
               </li>
             </ul>
-            <div className="bot flex justify-between items-center">
+            {/* <div className="bot flex justify-between items-center">
               <h5 className="price">${property.price.toLocaleString()}</h5>
               <div className="wrap-btn flex">
                 <Link
@@ -71,7 +71,7 @@ export default function PropertyGridItems3() {
                   Details
                 </Link>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       ))}

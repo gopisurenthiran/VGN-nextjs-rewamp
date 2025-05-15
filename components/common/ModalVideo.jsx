@@ -23,6 +23,7 @@ const ModalVideo = ({ videoId, isOpen, setIsOpen, src }) => {
                 allowFullScreen
                 style={iframeStyle}
               ></iframe>
+              
             </div>
           </div>
         </div>

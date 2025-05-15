@@ -6,7 +6,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 
 const images = [
   {
-    src: "/images/banner/1.webp",
+    src: "/images/banner/vgn-grand.jpg",
     alt: "",
   },
   { src: "/images/banner/2.webp", alt: "" },
